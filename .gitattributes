@@ -1,0 +1,19 @@
+# See https://github.com/github/linguist  
+# Generated on 2026-11-05
+# Normalize line endings
+*.js linguist-detectable
+public/* linguist-vendored
+
+package-lock.json linguist-generated
+
+*.ico binary
+
+*.map linguist-generated
+src/**/*.js linguist-detectable
+
+*.html linguist-vendored
+*.svg text
+
+*.woff2 binary
+
+# eof 71e28787
