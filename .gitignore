@@ -1,0 +1,6 @@
+.cache/
+.env
+yarn-error.log*
+.env.local
+*.log
+_site/
